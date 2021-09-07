@@ -1,0 +1,30 @@
+{
+  "textoDescritivo": "Peixes frescos e saborosos servidos em cortes precisos",
+  "produtos": [
+    {
+      "nome": "Sashimi de Salmão Selado",
+      "descricao": "10 fatias",
+      "preco": "45"
+    },
+    {
+      "nome": "Sashimi de Salmão",
+      "descricao": "14 fatias",
+      "preco": "50"
+    },
+    {
+      "nome": "Sashimi de Atum",
+      "descricao": "14 fatias",
+      "preco": "70"
+    },
+    {
+      "nome": "Sashimi de Tilápia",
+      "descricao": "14 fatias",
+      "preco": "25"
+    },
+    {
+      "nome": "Sashimi de Prego",
+      "descricao": "10 fatias",
+      "preco": "50"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "POR DO SOL",
+    "preco": "12",
+    "descricao": "( LICOR DE PÊSSEGO, SUCO DE LARANJA E GRANADINE)"
+  },
+  {
+    "nome": "FROZEN DE MORANGO",
+    "preco": "12",
+    "descricao": "( LEITE, CREME ARTESANAL, PEDACINHOS DE MORANGO E YOGURTE)"
+  },
+  {
+    "nome": "FROZEN DE COCO",
+    "preco": "12",
+    "descricao": "( LEITE, CREME ARTESANAL, PEDACINHOS DE COCO E YOGURTE)"
+  }
+]

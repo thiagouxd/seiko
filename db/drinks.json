@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "BATIDA DE MARACUJÁ",
+    "preco": "15",
+    "descricao": "(VODKA, CREME ARTESANAL, LEITE CONDENSADO E MARACUJÁ)"
+  },
+  {
+    "nome": "FROZEN DE MORANGO",
+    "preco": "15",
+    "descricao": "( VODKA, LEITE, CREME ARTESANAL YOUGURTE E MORANGO)"
+  },
+  {
+    "nome": "SEX ON THE BEACH",
+    "preco": "18",
+    "descricao": "(VODKA, LICOR DE PÊSSEGO, SUCO DE LARANJA, GRENADINE)"
+  },
+  {
+    "nome": "PINACOLADA",
+    "preco": "18",
+    "descricao": "( RUM, SUCO DE ABACAXI, LEITE DE COCO, CREME ARTESANAL E COCO)"
+  },
+  {
+    "nome": "CAIPIRINHA VODKA TROPICAL ",
+    "preco": "18",
+    "descricao": "( VODKA, SUCO DE MORANGO, AÇÚCAR, MARACUJÁ E MORANGO)"
+  },
+  {
+    "nome": "CAIPIRINHA VODKA ABACAXI",
+    "preco": "18",
+    "descricao": "( VODKA, SUCO DE ABACAXI, AÇÚCAR, PEDAÇOS DE ABACAXI)"
+  },
+  {
+    "nome": "CAIPIRINHA VODKA LIMÃO",
+    "preco": "18",
+    "descricao": "( VODKA, SUCO DE LIMÃO, AÇÚCAR, RODELAS DE LIMÃO)"
+  },
+  {
+    "nome": "GIN PEACH",
+    "preco": "20",
+    "descricao": "(GIN, LICOR DE PÊSSEGO, LICOR DE LIMÃO, CLUB SODA E MORANGO)"
+  },
+  {
+    "nome": "GIN TÔNICA",
+    "preco": "18",
+    "descricao": "( GIN, RODELA DE LARANJA, MORANGO, ALECRIM E TÔNICA)"
+  },
+  {
+    "nome": "GIN TROPICAL ",
+    "preco": "18",
+    "descricao": "( GIN, ENERGÉTICO TROPICAL E MARACUJÁ)"
+  }
+]

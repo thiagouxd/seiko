@@ -1,0 +1,20 @@
+{
+  "textoDescritivo": "Bolinho de arroz com fatias de peixe por cima",
+  "produtos": [
+    {
+      "nome": "Niguiri de Salmão",
+      "descricao": "04 unidades",
+      "preco": "15"
+    },
+    {
+      "nome": "Niguiri Tilapia",
+      "descricao": "04 unidades",
+      "preco": "11"
+    },
+    {
+      "nome": "Niguiri Salmão Torô",
+      "descricao": "03 unidades (salmão toro, finalizado com azeite trufado, raspas de limão siciliano e flor de sal)",
+      "preco": "15"
+    }
+  ]
+}

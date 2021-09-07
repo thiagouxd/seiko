@@ -1,0 +1,41 @@
+{
+  "textoDescritivo": null,
+  "produtos": [
+    {
+      "nome": "Combinado Apaixonados por Salmão",
+      "preço": "60",
+      "quantidade": "20",
+      "descricao": "07 Sashimi de salmão, 05 Uramaki Philadelfia, 04 Niguiri Salmão e 02 Joe Tradicional, 02 Joe pimenta"
+    },
+    {
+      "nome": "Combinado Nada Cru",
+      "preço": "67",
+      "quantidade": "15",
+      "descricao": "04 uramaki al capone, 02 niguiri skin, 02 uramaki california, 05 hot philadelfia, 02 hot couve"
+    },
+    {
+      "nome": "Combinado Fome de leão",
+      "preço": "155",
+      "quantidade": "65",
+      "descricao": "10 Uramaki Philadelfia, 10 Uramaki Skin, 10 fatias de salmão, 05 fatias atum, 05 Joe tradicional, 05 Joe tradicional, 05 Uramaki Negui, 05 Philadelfia Especial, 05 Hot Philadelfia, 05 Hot Couve"
+    },
+    {
+      "nome": "Combinado Pouca Fome",
+      "preço": "50",
+      "quantidade": "20",
+      "descricao": "05 Uramaki Philadelfia, 05 Hot Couve, 05 Uramaki Skin, 05 Philadelfia Especial"
+    },
+    {
+      "nome": "Combo + Temaki",
+      "preço": "85",
+      "quantidade": "16",
+      "descricao": "04 uramaki philadelfia, 04 uramaki ebiten nagare, 07 sashimi de salmão, 01 temaki (negui salmão ou  philadelfia"
+    },
+    {
+      "nome": "Combinado mais que especial",
+      "preço": "165",
+      "quantidade": "31",
+      "descricao": "07 fatias de salmão toro, 07 fatias de atum, 06 ebiten nagarê,, 5 Joe tradicional, 2 joe camarão, 02 Couvemaki e 2 joe geleia de pimenta (tempo de preparo em média de 30 minutos"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "nome": "ENTRADAS",
+    "produtos": [
+      "Ceviche ",
+      "Salada Sunomono",
+      "Shimeji na manteiga",
+      "Harumaki Tradicional ",
+      "Croquetas de Salmão ",
+      "Isca de peixe empanado"
+    ],
+    "descricao": null
+  },
+  {
+    "nome": "URAMAKI",
+    "produtos": [
+      "Uramaki Philadenfia",
+      "Uramaki Skin ",
+      "Uramaki Negui ",
+      "Philadelfia Especial"
+    ],
+    "descricao": "Enrolados com arroz por fora"
+  },
+  {
+    "nome": "SASHIMIS",
+    "produtos": [
+      "Salmão ",
+      "Salmão Selado ",
+      "Tilapia",
+      "Prego "
+    ],
+    "descricao": "Peixes frescos e saborosos servidos em cortes precisos"
+  },
+  {
+    "nome": "SASHIMIS",
+    "produtos": [
+      "Niguiri salmão toro ",
+      "Couvemaki ",
+      " Joe Geleia (morango ou pimenta)"
+    ],
+    "descricao": null
+  },
+  {
+    "nome": "TEMAKIS",
+    "produtos": [
+      "Philadelfia",
+      "Negui (Salmão batido c/ creme cheese e cebolinha)",
+      "Ichibance (salmão grelhado c/ creme cheese e cebolinha)"
+    ],
+    "descricao": "O significado da palavra em japonês é “rolinho de mão”. Ele é feito para se comer com a mão, diferente dos outros pratos."
+  },
+  {
+    "nome": "SOBREMESA",
+    "produtos": [
+      "Philadelfia",
+      "Negui (Salmão batido c/ creme cheese e cebolinha)",
+      "Ichibance (salmão grelhado c/ creme cheese e cebolinha)"
+    ],
+    "descricao": "O significado da palavra em japonês é “rolinho de mão”. Ele é feito para se comer com a mão, diferente dos outros pratos."
+  },
+  {
+    "nome": "SUSHI HOT",
+    "produtos": [
+      "Harumaki de banana com doce de leite"
+    ],
+    "descricao": null
+  }
+]

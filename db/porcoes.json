@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "Batata Frita 500gr   ",
+    "preco": "19",
+    "descricao": "(acompanha molho especial)"
+  },
+  {
+    "nome": "Polenta Frita 400gr ",
+    "preco": "19",
+    "descricao": "(acompanha molho especial)"
+  },
+  {
+    "nome": "Costelinha Suína ao Molho de Pimenta Especial  ",
+    "preco": "49",
+    "descricao": "(acompanha batata frita ou mandioca frita)"
+  },
+  {
+    "nome": "Pastelzinhos Sortidos ",
+    "preco": "25",
+    "descricao": "(Opções de recheio: carne, queijo ou frango cremoso)"
+  }
+]

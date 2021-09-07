@@ -1,0 +1,35 @@
+{
+  "textoDescritivo": "Enrolado de alga com arroz por fora e gergelim. Todos servidos com 8 unidades",
+  "produtos": [
+    {
+      "nome": "Uramaki Ebiten Nagarê",
+      "descricao": "8 unidades (Enrolado de arroz por fora, recheado com camarão empanado, cream cheese e finalizado com fina fatia de salmão por cima, molho tarê e gergelim)",
+      "preco": "39"
+    },
+    {
+      "nome": "Uramaki Philadelfia",
+      "descricao": "8 unidades (Enrolado de arroz por fora, recheado com salmão e cream cheese)",
+      "preco": "25"
+    },
+    {
+      "nome": "Uramaki Philadelfia Especial",
+      "descricao": "8 unidades (Enrolado de arroz por fora, recheado com salmão, cream cheese e finalizado com uma fina fatia de salmão por cima)",
+      "preco": "32"
+    },
+    {
+      "nome": "Uramaki Salmão Skin",
+      "descricao": "8 unidades (Enrolado de arroz por fora, recheado com pele de salmão grelhado e finalizado com molho tarê)",
+      "preco": "23"
+    },
+    {
+      "nome": "Uramaki Al Capone",
+      "descricao": "8 unidades (Enrolado de arroz por fora, recheado com rúcula, tomate seco e cream cheese)",
+      "preco": "22"
+    },
+    {
+      "nome": "Uramaki Califórnia",
+      "descricao": "8 unidades (Enrolado de arroz por fora, recheado com manga, pepino e kani)",
+      "preco": "20"
+    }
+  ]
+}

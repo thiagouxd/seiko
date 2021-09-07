@@ -1,0 +1,50 @@
+{
+  "textoDescritivo": null,
+  "produtos": [
+    {
+      "nome": "Salada Sunomono",
+      "descricao": "Salada de pepino com molho especial finalizado com kani.",
+      "preco": "20"
+    },
+    {
+      "nome": "Shimeji na manteiga",
+      "descricao": "Cogumelos refogados na manteiga e shoyu finalizado com kani e cebolinha",
+      "preco": "35"
+    },
+    {
+      "nome": "Gyoza Suíno",
+      "descricao": "6 unidades; Massa feita no vapor e selada na frigideira, recheado com carne suína e legumes acompanhado de um molho especial.",
+      "preco": "25"
+    },
+    {
+      "nome": "Gyoza Bovino",
+      "descricao": "6 unidades; Massa feita no vapor e selada na frigideira, recheado com carne bocina e legumes acompanhado de um molho especial.",
+      "preco": "30"
+    },
+    {
+      "nome": "Usuzukuri",
+      "descricao": "Finas fatias de salmão ao molho ponzu a base de limão e shoyu",
+      "preco": "49"
+    },
+    {
+      "nome": "Usuzukuri Crispy",
+      "descricao": "20 Fatias finas de salmão com 5 fatias de atum massaricado , finalizadas com molho especial, pimenta dedo de moça e crispy de batata doce",
+      "preco": "59"
+    },
+    {
+      "nome": "Carpaccio de Salmão Torô",
+      "descricao": "10 fatias finas de salmão toro , finalizadas com azeite trufado, flor de sal e raspas de limão siciliano",
+      "preco": "40"
+    },
+    {
+      "nome": "Ebi Fry",
+      "descricao": "6 unidades de camarão empanado na farinha panko acompanhado de molho a base de pimentão amarelo",
+      "preco": "98"
+    },
+    {
+      "nome": "Harumaki Tradicional",
+      "descricao": "02 unidades de massa folheada, recheada com frango e legumes, acompanhado de um molho agridoce.",
+      "preco": "10"
+    }
+  ]
+}

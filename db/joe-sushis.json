@@ -1,0 +1,25 @@
+{
+  "textoDescritivo": "Enrolado de peixe recheado.",
+  "produtos": [
+    {
+      "nome": "Joe Sushi",
+      "descricao": "2 unidade (arroz, envolto por salmão com patê de salmão com cream cheese e cebolinha)",
+      "preco": "20"
+    },
+    {
+      "nome": "Joe Geléia",
+      "descricao": "2 unidade (arroz, envolto por salmão com cream cheese e geleia de morango por cima)",
+      "preco": "16"
+    },
+    {
+      "nome": "Joe Sushi Flambado",
+      "descricao": "2 unidade (arroz, envolto por salmão com patê de salmão com cream cheese e cebolinha maçaricados)",
+      "preco": "20"
+    },
+    {
+      "nome": "Joe Geléia Especial",
+      "descricao": "2 unidades ( salmão com cream cheese e geleia de morango maçaricado por cima )",
+      "preco": "15"
+    }
+  ]
+}

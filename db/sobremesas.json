@@ -1,0 +1,10 @@
+{
+  "textoDescritivo": null,
+  "produtos": [
+    {
+      "nome": "arumaki de doce de leite",
+      "descricao": "Rolinho primavera recheado com banana e doce de leite.",
+      "preco": "5"
+    }
+  ]
+}

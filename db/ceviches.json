@@ -1,0 +1,15 @@
+{
+  "textoDescritivo": null,
+  "produtos": [
+    {
+      "nome": "Ceviche Tradicional",
+      "descricao": "peixe tilapia marinado ao molho citrico a base de cebola roxa, pimenta dedo de moça salsinha.",
+      "preco": "35"
+    },
+    {
+      "nome": "Ceviche ao Molho de Maracujá",
+      "descricao": "salmão marinado ao molho cítrico de maracujá, cebola roxa, pimenta dedo de moça e salsinha, acompanhado de chips de batata doce.",
+      "preco": "39"
+    }
+  ]
+}

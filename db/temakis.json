@@ -1,0 +1,25 @@
+{
+  "textoDescritivo": "O significado da palavra em japonês é “rolinho de mão”. Ele é feito para se comer com a mão, diferente dos outros pratos.",
+  "produtos": [
+    {
+      "nome": "Temaki Philadelfia",
+      "descricao": "Arroz, salmão em cubos e cream cheese ",
+      "preco": "30"
+    },
+    {
+      "nome": "Temaki Ebiten Nagarê",
+      "descricao": "Arroz, salmão em tiras, camarão empanado, cream cheese, finalizado com molho tarê e gergelim",
+      "preco": "39"
+    },
+    {
+      "nome": "Temaki Negui",
+      "descricao": "Arroz, salmão batido com cream cheese e cebolinha",
+      "preco": "30"
+    },
+    {
+      "nome": "Temaki Skin",
+      "descricao": "Arroz, pele de salmão grelhado, cream cheese, finalizado com molho tarê e gergelim",
+      "preco": "26"
+    }
+  ]
+}
