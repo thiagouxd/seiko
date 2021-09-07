@@ -1,0 +1,54 @@
+[
+  {
+    "nome": "Festival",
+    "rota": "/festival"
+  },
+  {
+    "nome": "Combinados",
+    "rota": "/combinados"
+  },
+  {
+    "nome": "Entradas",
+    "rota": "/entradas"
+  },
+  {
+    "nome": "Ceviches",
+    "rota": "/ceviches"
+  },
+  {
+    "nome": "Temakis",
+    "rota": "/temakis"
+  },
+  {
+    "nome": "Hot Temakis",
+    "rota": "/hot-temakis"
+  },
+  {
+    "nome": "Sashimis",
+    "rota": "/sashimis"
+  },
+  {
+    "nome": "Niguiris",
+    "rota": "/niguiris"
+  },
+  {
+    "nome": "Joe Sushis",
+    "rota": "/joe-sushis"
+  },
+  {
+    "nome": "Uramakis",
+    "rota": "/uramakis"
+  },
+  {
+    "nome": "Sobremesas",
+    "rota": "/sobremesas"
+  },
+  {
+    "nome": "Porções",
+    "rota": "/porcoes"
+  },
+  {
+    "nome": "Bebidas",
+    "rota": "/bebidas"
+  }
+]
